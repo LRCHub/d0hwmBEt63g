@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メタフィクション",
+  "base_artist": "*Luna feat. ねんね",
+  "createdAt": "2025-12-13T14:13:18.870997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メタフィクション",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": true,
+      "path": "select/01_メタフィクション_Luna_feat._ねんね.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メタフィクション",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_メタフィクション_Luna_feat._ねんね.txt"
+    }
+  ]
+}
